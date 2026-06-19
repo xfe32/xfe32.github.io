@@ -18,7 +18,7 @@ type: Journal
 - **Go ≥ v1.19**
 - **Hugo ≥ v0.100.0** (Extended Version)
 
-## Install Hugo
+## Test Install Hugo
 
 Install the [Hugo CLI](https://github.com/gohugoio/hugo/releases/latest), using the specific instructions for your operating system below:
 
